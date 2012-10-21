@@ -1,0 +1,9 @@
+/* Welcome to Compass. In this file you should write your main styles. (or centralize your imports) Import this file using the following HTML or equivalent: <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Erica\/Documents\/practise\/sites\/codewheel\/sass\/screen\.scss}line{font-family:\000038}}
+body { background: #ffffff; background: -moz-linear-gradient(top, white 0%, #e5e5e5 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, #e5e5e5)); background: -webkit-linear-gradient(top, white 0%, #e5e5e5 100%); background: -o-linear-gradient(top, white 0%, #e5e5e5 100%); background: -ms-linear-gradient(top, white 0%, #e5e5e5 100%); background: linear-gradient(to bottom, #ffffff 0%, #e5e5e5 100%); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Erica\/Documents\/practise\/sites\/codewheel\/sass\/screen\.scss}line{font-family:\0000310}}
+#container { width: 400px; margin: 5% auto 0; text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Erica\/Documents\/practise\/sites\/codewheel\/sass\/screen\.scss}line{font-family:\0000311}}
+h1 { color: #002857; font-family: arial, sans-serif; font-size: 36px; }
